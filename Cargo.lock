@@ -52,7 +52,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "file_watcher_experiment"
+name = "file_watcher_basic_experiment"
 version = "0.1.0"
 dependencies = [
  "ctrlc",

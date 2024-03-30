@@ -1,4 +1,4 @@
-# File Watcher Experiment
+# File Watcher Basic Experiment
 This is a simple Rust program that watches a specified directory for file system events such as file creation, modification, and deletion.
 
 ## Overview
